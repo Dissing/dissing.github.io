@@ -1,7 +1,7 @@
 
 
 /********************
-Base style
+* Base style
 ********************/
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700|Merriweather:300,400|Roboto:700);
@@ -16,7 +16,7 @@ ol, ul {
 }
 
 /********************
-Header style
+* Header style
 ********************/
 
 header {
@@ -82,7 +82,7 @@ header nav {
 
 
 /********************
-Footer style
+* Footer style
 ********************/
 
 footer {
@@ -100,7 +100,7 @@ footer p, footer a {
 
 
 /********************
-Content
+* Content
 ********************/
 
 .container {
@@ -209,11 +209,11 @@ Content
 }
 
 /*****************************************************************************
-Media queries
+* Media queries
 *****************************************************************************/
 
 /********************
-768px
+* 768px
 ********************/
 
 @media only screen and (min-width: 768px) {
@@ -236,7 +236,7 @@ Media queries
 } /* end of 768px media query */
 
 /********************
-1030px
+* 1030px
 ********************/
 
 @media only screen and (min-width: 1030px) {
@@ -254,7 +254,7 @@ Media queries
 } /* end of 1030px media query */
 
 /********************
-1240px
+* 1240px
 ********************/
 
 @media only screen and (min-width: 1240px) {
@@ -298,7 +298,7 @@ Media queries
 
 
 /*********************
-RETINA (2x RESOLUTION DEVICES)
+* RETINA (2x RESOLUTION DEVICES)
 *********************/
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min--moz-device-pixel-ratio: 1.5),
