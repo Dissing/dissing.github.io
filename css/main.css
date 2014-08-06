@@ -203,6 +203,16 @@ footer p, footer a {
 }
 
 /********************
+* About
+********************/
+
+.contact-links {
+    text-align: center;
+    padding:0;
+    margin: 0 auto;
+}
+
+/********************
 * Disqus
 ********************/
 
