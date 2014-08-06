@@ -1,0 +1,25 @@
+---
+title: Projects
+---
+
+{% include header.html %}
+
+<div id="grid">
+
+    {% for project in site.data.projects %}
+
+
+    
+    <div class="grid-item">
+        <a href="{{ project.link }}">
+        <h2>{{ project.name }}</h2>
+        <div class="grid-image-wrapper">
+             <img src="{{ project.img }}"></img>
+        </div>
+        </a>
+    </div>
+
+    {% endfor %}
+</div>
+
+{% include footer.html %}

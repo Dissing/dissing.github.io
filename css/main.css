@@ -198,6 +198,9 @@ footer p, footer a {
     max-width: 380px;
 }
 
+.grid-item a:visited {
+    color: black;
+}
 
 /********************
 * Disqus
