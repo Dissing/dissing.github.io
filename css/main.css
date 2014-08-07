@@ -9,6 +9,8 @@
 body {
     margin: 0;
     font-size: 100%;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern" 1;
 }
 
 ol, ul {
@@ -30,8 +32,6 @@ header a {
     color:white;
     text-decoration: none;
     font-family: Montserrat, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
     transition: color 0.5s ease-out 0s;
     cursor: pointer;
 }
