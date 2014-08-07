@@ -274,7 +274,16 @@ footer p, footer a {
     cursor: pointer;
 }
 
+/********************
+* Categories
+********************/
 
+.archive-header {
+    text-align: center;
+    color: #333;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+}
 
 /********************
 * Disqus
