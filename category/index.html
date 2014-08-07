@@ -6,7 +6,7 @@ title: Archive
 
 <div id="wrapper">
     {% for category in site.categories %}
-        <div class="category" id = "{{ category | first }}-category" style="display:none">
+        <div class="hide" id = "{{ category | first }}-category">
             <h1 class="archive-header">Archive for {{ category | first }} category</h1>
             {% for posts in category %}
                 {% for post in posts %}
@@ -45,7 +45,7 @@ title: Archive
 
 <script>
     var category = window.location.search.substring(1);
-    document.getElementById(category + "-category").style = "";
+    document.getElementById(category + "-category").className = "category";
     document.title = category;
 </script>
 

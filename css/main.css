@@ -17,6 +17,10 @@ ol, ul {
     list-style: none outside none;
 }
 
+.hide {
+    display: none;
+}
+
 /********************
 * Header style
 ********************/
