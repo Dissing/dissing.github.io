@@ -14,7 +14,7 @@ When I am not working on my crazy overambitious projects, I like reading a book,
 This site is responsive - build by hand. It is hosted with [Github Pages](https:/pages.github.com) and utilises [Font Awesome](http://fontawesome.io), [Initializr](http://Initializr.com) and [ZeroClipboard](http://zeroclipboard.org/). The fonts are [Montserrat](http://www.google.com/fonts/specimen/Montserrat) and [Merriweather](http://www.google.com/fonts/specimen/Merriweather) served by Google Fonts.
 
 Contact
-=======
+-------
 If you have any questions, corrections or just want to say hi, please do not hesitate to contact me any way you like.
 
 <ul class="contact-links">

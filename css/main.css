@@ -111,11 +111,11 @@ footer p, footer a {
     font-weight: 400;
 }
 
-.container h2 a{
+.container h1 a, h2 a{
     color: #333;
 }
 
-.container h2 a:hover {
+.container h1 a:hover, h2 a:hover {
     color: #009ABD;
 }
 
@@ -129,7 +129,7 @@ footer p, footer a {
 
 .container .content {
     line-height: 1.5em;
-    font-family: Merriweather;
+    font-family: Merriweather, serif;
     text-ren­der­ing: op­ti­mizeLeg­i­bil­i­ty;
     color: rgb(51,51,51);
     margin-top: 1em;
@@ -149,11 +149,20 @@ footer p, footer a {
 * Post header
 ********************/
 
-.container h2 {
-    font-size: 2em;
+.container h1,h2 {
     color: rgb(34,34,34);
+    font-family: Monteserrat, sans-serif;
     margin: 0;
 }
+
+.container h1 {
+    font-size: 2em;
+}
+
+.container h2 {
+    font-size: 1.3em;
+}
+
 
 .container aside li {
     display: inline;
@@ -175,7 +184,7 @@ footer p, footer a {
 
 #grid {
     width: 95%;
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
