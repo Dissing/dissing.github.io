@@ -17,6 +17,10 @@ ol, ul {
     list-style: none outside none;
 }
 
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
 .hide {
     display: none;
 }
@@ -34,7 +38,6 @@ header {
 
 header a {
     color:white;
-    text-decoration: none;
     font-family: Montserrat, sans-serif;
     transition: color 0.5s ease-out 0s;
     cursor: pointer;
@@ -99,7 +102,6 @@ footer {
 footer p, footer a {
     font-family: Montserrat, sans-serif;
     color: white;
-    text-decoration: none;
 }
 
 
@@ -139,9 +141,12 @@ footer p, footer a {
     margin-top: 1em;
 }
 
+.container .content img {
+    width: 100%;
+}
+
 .container a {
     color: #009ABD;
-    text-decoration: none;
     transition: color 0.5s ease-out 0s;
 }
 

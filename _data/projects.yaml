@@ -1,11 +1,11 @@
-- name: Paul (WIP)
+- name: Paul
   img: http://placehold.it/380x260
   link: #
 
-- name: Jump (WIP)
+- name: Jump
   img: /img/Jump.png
-  link: #
+  link: /projects/jump/
 
-- name: Phobetor (WIP)
+- name: Phobetor
   img: /img/Phobetor.png
   link: https://github.com/Dissing/Phobetor
