@@ -19,7 +19,7 @@ If you have any questions, corrections or just want to say hi, please do not hes
 
 <ul class="contact-links">
     <li>
-        <a href="/rss">
+        <a href="/rss.xml">
             <span class="fa-stack fa-lg">
                 <i class="fa fa-square fa-stack-2x"></i>
                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
