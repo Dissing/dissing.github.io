@@ -7,3 +7,5 @@ Disallow: /Gemfile.lock
 Disallow: /CNAME
 
 Disallow: /README.md
+
+Sitemap: http://lassedissing.com/sitemap.xml
