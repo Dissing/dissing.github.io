@@ -6,10 +6,11 @@ layout: page
 Hi!
 ===
 
-I'm Lasse Dissing and I am a Danish developer with great interest in artificial intelligence, robotics, real-time graphics and programming languages.
-I am currently attending HTX, which is like a high school but with increased focus on physics and technology. Next year I plan to move to the UK and study artificial intelligence.
+I’m Lasse Dissing and I am a Danish engineering student with a great interest in spaceflight, systems engineering and polar science.
+My lifelong goal is to explore the unknown and pushing the boundaries of what we humans can achieve. This page contains blog posts and articles about my many projects and my (hopefully) future field work. My current focus is on utilising aerospace technology to do climate science in the polar regions. I am currently studying for a BSc in Spacecraft Systems Engineering and Geophysics at the Technical University of Denmark. My hope is to eventually gain a Ph.D. in aerospace engineering at some large European or American University. 
 
-When I am not working on my crazy overambitious projects, I like reading a book, practising my drawing skills (I still suck at it) or taking photographs.
+When I am not working on my crazy overambitious projects, I like to run and otherwise exercise. I have just started indoor boulder rock climbing, but I am still just a novice. I will certainly post updates here documenting my progress.
+
 
 This site is responsive - build by hand. It is hosted with [Github Pages](https:/pages.github.com) and utilises [Font Awesome](http://fontawesome.io), [Initializr](http://Initializr.com) and [ZeroClipboard](http://zeroclipboard.org/). The fonts are [Montserrat](http://www.google.com/fonts/specimen/Montserrat) and [Merriweather](http://www.google.com/fonts/specimen/Merriweather) served by Google Fonts.
 
