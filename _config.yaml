@@ -1,7 +1,0 @@
-permalink: /:year/:month/:day/:title.html
-
-collections:
-    project_pages:
-        output: true
-        permalink: /projects/:path/
-    
